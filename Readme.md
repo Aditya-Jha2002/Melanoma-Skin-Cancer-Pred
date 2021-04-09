@@ -26,7 +26,7 @@ The dataset contains 33126 skin lesion images.
 To download the dataset images go to the following link or use the following command
 ``` kaggle competitions download -c siim-isic-melanoma-classification ```
 
-The data can be found in the folder (`input/train_images/train_images.csv`)
+The data can be found in the folder (`input/train.csv`)
 
 ## Frameworks-used
 1. Pillow
@@ -37,7 +37,9 @@ The data can be found in the folder (`input/train_images/train_images.csv`)
 6. Albumentations
 
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
+![](https://forthebadge.com/images/badges/made-with-python.svg) <br>
+![](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/pytorch-logo-flat-300x210.png) 
+
 
 ## Labels
 {0: 'Benign Melanoma Cancer',
